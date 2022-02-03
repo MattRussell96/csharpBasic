@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Conditionals", "06_Condi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "06_Conditionals\IfStatements\IfStatements.csproj", "{FBBC3D17-4939-4688-9648-C8E1A19D63CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternaries", "06_Conditionals\Ternaries\Ternaries.csproj", "{A5FA3505-4997-4779-B4BD-7CC095435B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,9 +64,14 @@ Global
 		{FBBC3D17-4939-4688-9648-C8E1A19D63CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBBC3D17-4939-4688-9648-C8E1A19D63CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBBC3D17-4939-4688-9648-C8E1A19D63CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FA3505-4997-4779-B4BD-7CC095435B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FA3505-4997-4779-B4BD-7CC095435B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FA3505-4997-4779-B4BD-7CC095435B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FA3505-4997-4779-B4BD-7CC095435B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{468417B5-94AC-4A44-8A95-E1EA6EE68995} = {136BFAD8-602A-4CFE-8C5C-3D161289AF05}
 		{FBBC3D17-4939-4688-9648-C8E1A19D63CA} = {136BFAD8-602A-4CFE-8C5C-3D161289AF05}
+		{A5FA3505-4997-4779-B4BD-7CC095435B20} = {136BFAD8-602A-4CFE-8C5C-3D161289AF05}
 	EndGlobalSection
 EndGlobal
