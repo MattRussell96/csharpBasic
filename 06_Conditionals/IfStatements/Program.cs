@@ -1,5 +1,6 @@
 ﻿bool isSnowing = true;
 bool isGoingOutside = false;
+bool hasUmbrella = true;
 //if(true/false value)
 //{
 //  body of the code,execute this code if above is true
@@ -20,6 +21,11 @@ if(isSnowing ^ isGoingOutside)
 {
     Console.WriteLine("I will only go outside once the snow stops!!!");
 }
+if(hasUmbrella)
+{
+    Console.WriteLine("Good thing I have my umbrella so I can go outside while its snowing!");
+}
+
 
 
 
