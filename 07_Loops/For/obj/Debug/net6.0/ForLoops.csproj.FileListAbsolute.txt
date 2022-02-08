@@ -1,0 +1,15 @@
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\bin\Debug\net6.0\ForLoops.exe
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\bin\Debug\net6.0\ForLoops.deps.json
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\bin\Debug\net6.0\ForLoops.runtimeconfig.json
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\bin\Debug\net6.0\ForLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\bin\Debug\net6.0\ref\ForLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\bin\Debug\net6.0\ForLoops.pdb
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.csproj.AssemblyReference.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.AssemblyInfo.cs
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ref\ForLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.pdb
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\For\obj\Debug\net6.0\ForLoops.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\bin\Debug\net6.0\WhileLoops.exe
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\bin\Debug\net6.0\WhileLoops.deps.json
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\bin\Debug\net6.0\WhileLoops.runtimeconfig.json
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\bin\Debug\net6.0\WhileLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\bin\Debug\net6.0\ref\WhileLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\bin\Debug\net6.0\WhileLoops.pdb
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.AssemblyInfo.cs
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\ref\WhileLoops.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.pdb
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\dotnetProjects\csharpBasic\07_Loops\While\obj\Debug\net6.0\WhileLoops.genruntimeconfig.cache
